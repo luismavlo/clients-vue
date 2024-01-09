@@ -5,7 +5,7 @@ import router from "./router";
 
 import "./assets/main.css";
 import { VueQueryPlugin } from "@tanstack/vue-query";
-
+// esta es la rama v2 y sera la main
 const pinia = createPinia();
 
 const app = createApp(App);
